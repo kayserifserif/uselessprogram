@@ -2,8 +2,8 @@
 
 ## poem
 
-![poem](https://github.com/whykatherine/uselessprogram/blob/master/img/uselessprogram.png)
+![poem](https://raw.githubusercontent.com/whykatherine/uselessprogram/main/img/uselessprogram.png)
 
 ## breakdown
 
-![poem breakdown](https://github.com/whykatherine/uselessprogram/blob/master/img/breakdown.png)
+![poem breakdown](https://raw.githubusercontent.com/whykatherine/uselessprogram/main/img/breakdown.png)
